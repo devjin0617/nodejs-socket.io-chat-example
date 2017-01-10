@@ -4,7 +4,8 @@
   "description": "this is chat example using node.js with socket.io",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "socket": "node index.js",
+    "web": "node webserver.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
