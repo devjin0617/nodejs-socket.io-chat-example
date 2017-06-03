@@ -3,6 +3,13 @@ this is chat example using nodejs with socket.io
 
 # how to run
 
+npm module install:
+
+```
+console$ cd /path/to/project
+console$ npm install
+```
+
 1. start socket.io server
 
 > using port 50000
