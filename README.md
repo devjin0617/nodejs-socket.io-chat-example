@@ -6,8 +6,8 @@ this is chat example using nodejs with socket.io
 npm module install:
 
 ```
-console$ cd /path/to/project
-console$ npm install
+$ cd /path/to/project
+$ npm install
 ```
 
 1. start socket.io server
@@ -15,12 +15,12 @@ console$ npm install
 > using port 50000
 
 ```
-console$ npm run socket
+$ npm run socket
 ```
 
 2. start simple web server
 ```
-console$ npm run web
+$ npm run web
 ```
 
 > using port 8000
@@ -28,4 +28,5 @@ console$ npm run web
 3. open your browser and connect to `localhost:8000`
 
 # blog post
+
 [node.js] 실시간 멀티채팅 구현하기!: <http://blog.puding.kr/156>
